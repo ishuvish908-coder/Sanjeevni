@@ -1,0 +1,2 @@
+# Sanjeevni Social Impact Platform
+# Backend uses standard library modules (sqlite3, http.server, urllib, json)
