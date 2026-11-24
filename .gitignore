@@ -1,0 +1,25 @@
+# Agent harness & local meta
+.agent/
+.agents/
+.gemini/
+.gsd/
+
+# Logs & Temporary files
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+# Scratch & builds
+scratch/
+temp_*
+.user_uploaded/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.local
